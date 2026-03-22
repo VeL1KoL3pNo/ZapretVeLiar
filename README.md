@@ -1,5 +1,12 @@
 # ZapretVeLiar
 Графическая оболочка для Zapret 
+
+Оригинальный zapret через стратегии
+https://github.com/Flowseal/zapret-discord-youtube
+
+Самый НАСТОЯЩИЙ создатель zapret
+https://github.com/bol-van/zapret
+
 [--
    Update Logs (всегда знайте вышло ли обновление на zapret или veliar)
    Launcher (Запускайте и выключайте запрет и выбирайте любой батник)
